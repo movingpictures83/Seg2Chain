@@ -1,0 +1,2 @@
+Prefix plugins/Seg2Chain/example/
+Plugin Seg2Chain inputfile 1.pdb outputfile output.seg2chain.pdb
